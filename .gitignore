@@ -1,0 +1,17 @@
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+out/
+target/
+*.class
+
+node_modules/
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+*.log
